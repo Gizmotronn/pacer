@@ -77,7 +77,7 @@ export default function Subscribe() {
         <Box sx={styles.contentBox}>
           <Box sx={styles.contentBoxInner}>
             <Heading as="h2" sx={styles.title}>
-              Subscribe to my nudes
+              Subscribe to our Blog
             </Heading>
             <Text as="p" sx={styles.description}>
               Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod

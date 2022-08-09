@@ -15,31 +15,31 @@ import TextFeature from 'components/text-feature';
 import ModalVideo from 'react-modal-video';
 import { IoIosPlay } from 'react-icons/io';
 
-import ServiceThumb from 'assets/smartsock.jpeg';
+import ServiceThumb from 'assets/service-thumb.png';
 import shapePattern from 'assets/shape-pattern1.png';
 
 import Smart from 'assets/services/smart.svg';
 import Secure from 'assets/services/secure.svg';
 
 const data = {
-  subTitle: 'the suite',
-  title: 'Connect your body into the digital fitness space. Actually - immerse your body in it',
+  subTitle: 'our services',
+  title: 'Business Goals Achieved with Design',
   features: [
     {
       id: 1,
       imgSrc: Smart,
-      altText: 'Awesome app',
-      title: 'Awesome app',
+      altText: 'Smart Features',
+      title: 'Smart Features',
       text:
-        'This app is so great. Indian scammer use it all the time, thanks much very',
+        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
     },
     {
       id: 2,
       imgSrc: Secure,
-      altText: 'Simple sock',
-      title: 'Simple sock',
+      altText: 'Secure Contents',
+      title: 'Secure Contents',
       text:
-        'This app is so great. Indian scammer use it all the time, thanks much very',
+        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
     },
   ],
 };
@@ -90,7 +90,7 @@ export default function ServiceSection() {
       <ModalVideo
         channel="youtube"
         isOpen={videoOpen}
-        videoId="hM_D0SA12SA"
+        videoId="ZNA9rmDsYVE"
         onClose={() => setVideoOpen(false)}
       />
     </section>

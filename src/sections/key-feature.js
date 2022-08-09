@@ -15,31 +15,31 @@ const data = [
     altText: 'Fast Performance',
     title: 'Fast Performance',
     text:
-      'No lag. No microtransactions. And no, we will not be adding them.',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 2,
     imgSrc: Partnership,
-    altText: 'Partnership deals',
-    title: 'Partnership deals',
+    altText: 'Partnership deal',
+    title: 'Partnership deal',
     text:
-      'We have industry connections with organisations like Socios and teams like Melbourne City',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 3,
     imgSrc: Subscription,
-    altText: 'No Subscription Required',
-    title: 'No Subscription Required',
+    altText: 'Pro Subscription',
+    title: 'Pro Subscription',
     text:
-      'If you just want to run and get better, simply run and get better - with our product',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 4,
     imgSrc: Support,
     altText: 'Customer Support',
-    title: 'Unparalleled Customer Support',
+    title: 'Customer Support',
     text:
-      'We value you. We will take care of you the way Pace takes care of your running.',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
 ];
 
@@ -48,8 +48,8 @@ export default function KeyFeature() {
     <section sx={{ variant: 'section.keyFeature' }} id="feature">
       <Container>
         <SectionHeader
-          slogan="What about my Apple Watch?"
-          title="Why the competition is inferior"
+          slogan="Whats the function"
+          title="Meet the feature of product"
         />
 
         <Grid sx={styles.grid}>

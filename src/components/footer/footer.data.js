@@ -8,7 +8,7 @@ export default {
       id: 1,
       iconSrc: Chat,
       altText: 'Community',
-      title: 'Connect with other users',
+      title: 'Join the Community',
       description:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.',
     },
@@ -16,7 +16,7 @@ export default {
       id: 2,
       iconSrc: Community,
       altText: 'Chat',
-      title: 'Run together with other users',
+      title: 'Chat Communication',
       description:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.',
     },
@@ -26,7 +26,7 @@ export default {
       altText: 'Github',
       title: 'Github Access',
       description:
-        'I just really like Github',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.',
     },
   ],
   menuItem: [
@@ -36,15 +36,15 @@ export default {
     },
     {
       path: '/',
-      label: 'Affiliates',
+      label: 'Adversite',
     },
     {
       path: '/',
-      label: 'Support',
+      label: 'Supports',
     },
     {
       path: '/',
-      label: 'White Paper',
+      label: 'Marketing',
     },
     {
       path: '/',

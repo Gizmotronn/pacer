@@ -10,27 +10,27 @@ import ArrowEven from 'assets/arrowEven.svg';
 const data = [
   {
     id: 1,
-    title: 'You buy the product',
+    title: 'Set disbursement Instructions',
     text:
-      'We make money',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 2,
-    title: 'You buy the product',
+    title: 'Assembly retrieves funds from your account',
     text:
-      'We make money',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 3,
-    title: 'You buy the product',
+    title: 'Assembly initiates disbursement',
     text:
-      'We make money',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 4,
-    title: 'You buy the product',
+    title: 'Customer receives funds payment',
     text:
-      'We make money',
+      'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
 ];
 
@@ -39,7 +39,7 @@ export default function WorkFlow() {
     <section sx={styles.workflow}>
       <Container>
         <SectionHeader
-          slogan="Business model"
+          slogan="Whats the function"
           title="Let’s see how it works"
           isWhite={true}
         />
