@@ -16,8 +16,8 @@ const data = [
   {
     id: 1,
     imgSrc: Member1,
-    altText: 'Saimon Harmer',
-    title: 'Saimon Harmer',
+    altText: 'Mike Litoris',
+    title: 'Mike Litoris',
     designation: 'CEO and Founder',
     socialProfile: [
       {
@@ -43,8 +43,8 @@ const data = [
   {
     id: 2,
     imgSrc: Member2,
-    altText: 'Aaron Nunez',
-    title: 'Aaron Nunez',
+    altText: 'Adolf Hitler',
+    title: 'Adolf Hitler',
     designation: 'Founder',
     socialProfile: [
       {
@@ -70,8 +70,8 @@ const data = [
   {
     id: 3,
     imgSrc: Member3,
-    altText: 'Aaron Nunez',
-    title: 'Aaron Nunez',
+    altText: 'Andy Feltherbush',
+    title: 'Andy Feltherbush',
     designation: 'Web Designer',
     socialProfile: [
       {
@@ -97,8 +97,8 @@ const data = [
   {
     id: 4,
     imgSrc: Member4,
-    altText: 'Lina Jutila',
-    title: 'Lina Jutila',
+    altText: 'Ben Dover',
+    title: 'Ben Dover',
     designation: 'Web Developer',
     socialProfile: [
       {
@@ -124,8 +124,8 @@ const data = [
   {
     id: 5,
     imgSrc: Member5,
-    altText: 'Saimon Harmer',
-    title: 'Saimon Harmer',
+    altText: 'HeHeXd69',
+    title: 'HeHeXd69',
     designation: 'CEO and Founder',
     socialProfile: [
       {
@@ -151,8 +151,8 @@ const data = [
   {
     id: 6,
     imgSrc: Member6,
-    altText: 'Aaron Nunez',
-    title: 'Aaron Nunez',
+    altText: 'HeHeXd69',
+    title: 'HeHeXd69',
     designation: 'Web Designer',
     socialProfile: [
       {
@@ -183,7 +183,7 @@ export default function TeamSection() {
       <Container>
         <SectionHeader
           slogan="our team"
-          title="The most qualified and talented individuals"
+          title="We all came out of Adolf's bunker"
         />
 
         <Grid sx={styles.grid}>
